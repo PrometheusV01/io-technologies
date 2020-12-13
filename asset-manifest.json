@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/io-technologies/static/css/main.ed641622.chunk.css",
+    "main.js": "/io-technologies/static/js/main.0e8125fa.chunk.js",
+    "main.js.map": "/io-technologies/static/js/main.0e8125fa.chunk.js.map",
+    "runtime-main.js": "/io-technologies/static/js/runtime-main.dc9e2b96.js",
+    "runtime-main.js.map": "/io-technologies/static/js/runtime-main.dc9e2b96.js.map",
+    "static/js/2.c188a44a.chunk.js": "/io-technologies/static/js/2.c188a44a.chunk.js",
+    "static/js/2.c188a44a.chunk.js.map": "/io-technologies/static/js/2.c188a44a.chunk.js.map",
+    "index.html": "/io-technologies/index.html",
+    "static/css/main.ed641622.chunk.css.map": "/io-technologies/static/css/main.ed641622.chunk.css.map",
+    "static/js/2.c188a44a.chunk.js.LICENSE.txt": "/io-technologies/static/js/2.c188a44a.chunk.js.LICENSE.txt",
+    "static/media/1st.46dbd8e4.svg": "/io-technologies/static/media/1st.46dbd8e4.svg",
+    "static/media/2nd.10234245.svg": "/io-technologies/static/media/2nd.10234245.svg",
+    "static/media/3rd.131d1c6a.svg": "/io-technologies/static/media/3rd.131d1c6a.svg",
+    "static/media/arrow.aac41e32.svg": "/io-technologies/static/media/arrow.aac41e32.svg",
+    "static/media/styles.scss": "/io-technologies/static/media/search.7578fa6f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc9e2b96.js",
+    "static/js/2.c188a44a.chunk.js",
+    "static/css/main.ed641622.chunk.css",
+    "static/js/main.0e8125fa.chunk.js"
+  ]
+}
