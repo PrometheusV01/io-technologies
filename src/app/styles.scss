@@ -1,0 +1,23 @@
+@import 'src/assets/styles/vars';
+
+.app {
+    margin: 0px auto;
+    max-width: 592px;
+
+    &__header {
+        background: $bg-grey;
+        border-radius: 6px 6px 0 0;
+
+        padding: 26px 14px;
+    }
+
+    &__main {
+        background-color: white;
+        border-radius: 0 0 6px 6px;
+        overflow: hidden;
+    }
+
+    &__pagination {
+        
+    }
+}

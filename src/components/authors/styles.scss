@@ -1,0 +1,68 @@
+@import 'src/assets/styles/vars';
+
+.authors {
+    width: 100%;
+    border-spacing: 0;
+
+    &__item {
+        
+        & > td {
+            border-bottom: 1px solid $grey;
+        }
+
+        &:nth-child(2n) {
+            background-color: $bg-grey;
+        }
+
+        .position {
+            font-size: 12px;
+            color: $grey;
+            text-align: center;
+            width: 5%;
+        }
+
+        .desc-td {
+            width: 45%;
+
+            .description {
+                display: flex;
+                padding: 14px 0;
+    
+                & > b {
+                    background-color: #67c9de;
+                    border-radius: 50%;
+                    width: 41px;
+                    height: 41px;
+                    line-height: 41px;
+                    text-align: center;
+                    color: white;
+                    box-shadow: 0 0 20px $grey;
+                }
+    
+                &__detail {
+                    margin: 0 10px;
+    
+                    p {
+                        color: $grey;
+                    }
+                }
+            }
+        }
+
+        .medal {
+            width: 37%;
+            text-align: center;
+            
+            img {
+                width: 21px;
+            }
+        }
+
+        .pageViews {
+            vertical-align: initial;
+            font-size: 16px;
+            padding: 14px 0;
+            color: $blue;
+        }
+    }
+}

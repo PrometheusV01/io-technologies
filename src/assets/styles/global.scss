@@ -1,0 +1,40 @@
+@import 'src/assets/styles/vars';
+
+//reset styles
+
+input, button, select, option {
+    outline: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+h5, p {
+    margin: 0;
+}
+
+button {
+    cursor: pointer;
+}
+
+//global styles
+
+body {
+    background: linear-gradient( #122c3f, #285f88);
+    font-family: 'Arial';
+
+    min-height: 100vh;
+    margin: 0px;
+}
+
+#root {
+    padding: 15px;
+}
+
+.h5 {
+    font-size: 16px;
+    color: $blue;
+}
